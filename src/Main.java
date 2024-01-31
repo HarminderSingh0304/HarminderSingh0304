@@ -13,7 +13,7 @@ public class Main {
 		tree.insert(5);
 		
 		tree.inOrder();
-//		tree.preOrder();
+		tree.preOrder();
 	}
 
 }
